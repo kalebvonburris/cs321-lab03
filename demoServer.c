@@ -1,4 +1,7 @@
-// Server side C/C++ program to demonstrate Socket programming
+// Kaleb Burris & Kylie Lambries
+// CS 321
+// 03/17/2025
+// Server side C program to demonstrate Socket programming
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/socket.h>
